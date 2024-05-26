@@ -1,7 +1,7 @@
 {
   "name": "teste",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "src/server.ts",
   "scripts": {
     "dev": "tsx --watch --no-warnings ./src/server.ts",
     "knex": "node --import tsx ./node_modules/.bin/knex"
